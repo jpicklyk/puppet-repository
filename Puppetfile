@@ -65,3 +65,6 @@ mod "windows_dns",
   
 mod "windowsps",
   :git => "git://github.com/jpicklyk/puppet-windowsps"
+
+mod "exchange",
+  :git => "git://github.com/jpicklyk/puppet-exchange"
