@@ -40,11 +40,11 @@ mod "rismoney/chocolatey"
 
 mod "role",
   :git => "git://github.com/jpicklyk/role",
-  :ref => "master"
+  :ref => "exchange"
 
 mod "profile",
   :git => "git://github.com/jpicklyk/profile",
-  :ref => "master"
+  :ref => "exchange"
 
 mod "custom_facts",
   :git => "git://github.com/jpicklyk/custom_facts"
