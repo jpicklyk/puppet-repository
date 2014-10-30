@@ -68,3 +68,6 @@ mod "windowsps",
 
 mod "exchange",
   :git => "git://github.com/jpicklyk/puppet-exchange"
+
+mod "windowsfeature",
+  :git => "git://github.com/opentable/puppet-windowsfeature"
