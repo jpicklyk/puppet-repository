@@ -1,0 +1,17 @@
+---
+windows_puppet::master: 'puppet-ss360labs.cloudapp.net'
+windows_puppet::version: '3.7.1'
+profile::win_default_apps::applications:
+  - "notepadplusplus.install"
+  - "wireshark"
+  - "sysinternals"
+  - "7zip.install"
+  - "GoogleChrome"
+  - "windirstat"
+  - "windowstelnet"
+profile::software_share::drive: 's'
+profile::software_share::root: '\\ges360.file.core.windows.net\software'
+profile::software_share::account: 'ges360'
+profile::software_share::key: 'rqCIDRBvFk1oaxQgmS/QMlXsohOXfxSMCMZcc4V+LTXlTuQxm5R05ISck+r3J/h2lfgfi409mvRWCfd+ACF+UA=='
+classes:
+  profile::base 
