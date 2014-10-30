@@ -14,7 +14,7 @@ profile::software_share::root: '\\ges360.file.core.windows.net'
 profile::software_share::sharename: 'software'
 profile::software_share::account: 'ges360'
 profile::software_share::key: 'rqCIDRBvFk1oaxQgmS/QMlXsohOXfxSMCMZcc4V+LTXlTuQxm5R05ISck+r3J/h2lfgfi409mvRWCfd+ACF+UA=='
-profile::powershell::version: 4
+profile::powershell::version: '4'
 profile::exchange::share: 's:\Microsoft\Exchange\'
 classes:
   profile::base 
