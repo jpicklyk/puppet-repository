@@ -44,7 +44,7 @@ mod "role",
 
 mod "profile",
   :git => "git://github.com/jpicklyk/profile",
-  :ref => "master"
+  :ref => "ntp_ubuntu"
 
 mod "custom_facts",
   :git => "git://github.com/jpicklyk/custom_facts"
