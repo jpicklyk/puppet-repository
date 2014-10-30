@@ -62,3 +62,6 @@ mod "domain_membership",
 
 mod "windows_dns",
   :git => "git://github.com/jpicklyk/puppet-windows_dns"
+  
+mod "windowsps",
+  :git => "git://github.com/jpicklyk/puppet-windowsps"
