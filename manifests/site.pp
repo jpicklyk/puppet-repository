@@ -19,7 +19,7 @@
 
 # Define filebucket 'main':
 filebucket { 'main':
-  server => 'master',
+  server => 'puppet-ss360labs.cloudapp.net',
   path   => false,
 }
 
