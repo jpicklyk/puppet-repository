@@ -19,5 +19,4 @@ profile::exchange::share: 's:\Microsoft\Exchange\'
 profile::linux::time_service::foldername: '/home/matt'
 profile::linux::time_service::user 'root'
 classes:
-  profile::base 
-
+  profile::base
