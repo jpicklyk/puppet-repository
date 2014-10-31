@@ -18,5 +18,5 @@ profile::powershell::version: '4'
 profile::exchange::share: 's:\Microsoft\Exchange\'
 classes:
   profile::base 
-profile::linux::time_service::foldername: '/root/test/is/going'
+profile::linux::time_service::foldername: '/home/matt'
 profile::linux::time_service::user 'root'
