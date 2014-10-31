@@ -17,6 +17,6 @@ profile::software_share::key: 'rqCIDRBvFk1oaxQgmS/QMlXsohOXfxSMCMZcc4V+LTXlTuQxm
 profile::powershell::version: '4'
 profile::exchange::share: 's:\Microsoft\Exchange\'
 profile::linux::time_service::foldername: '/home/matt'
-profile::linux::time_service::user 'root'
+profile::linux::time_service::user: 'root'
 classes:
   profile::base
