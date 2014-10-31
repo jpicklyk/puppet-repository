@@ -18,5 +18,8 @@ profile::powershell::version: '4'
 profile::exchange::share: 's:\Microsoft\Exchange\'
 profile::linux::time_service::foldername: '/home/matt'
 profile::linux::time_service::user: 'root'
+profile::linux::adminuser::$username: 'gesadmin'
+profile::linux::adminuser::$adminpass: 'resveredforpassword' 
+profile::linux::adminuser::$group: 'admin'
 classes:
   profile::base
