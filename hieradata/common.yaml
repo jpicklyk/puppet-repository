@@ -17,6 +17,6 @@ profile::software_share::key: 'rqCIDRBvFk1oaxQgmS/QMlXsohOXfxSMCMZcc4V+LTXlTuQxm
 profile::powershell::version: '4'
 profile::exchange::share: 's:\Microsoft\Exchange\'
 profile::shutdown::time: '18:30'
-profile::shutdown::minutes: 1
+profile::shutdown::minutes: '1'
 classes:
   profile::base 
